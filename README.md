@@ -9,6 +9,8 @@
 
 - ⚡ Fato: **jogador de brawlhalla e minecraft**
 
+
+<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=krebinkkj&label=Visitas&color=0e75b6&style=flat" alt="krebinkkj" /> </p>
 <p align="left">
 </p>
 
