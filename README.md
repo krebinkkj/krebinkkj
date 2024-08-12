@@ -19,9 +19,7 @@
 
 <p><img align="left" src="https://lanyard.cnrad.dev/api/1041878326169587732?borderRadius=10px&idleMessage=Nenhuma%20atividade&hideBadge=false" alt="krebinkkj" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krebinkkj&theme=midnight-purple&locale=pt-br" alt="krebinkkj" /></p>
-
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=krebinkkj&theme=midnight-purple&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
 
