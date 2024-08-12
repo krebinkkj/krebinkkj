@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krebinkkj&theme=midnight-purple&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
 
-<p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
