@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Krebinkkj</h1>
-<h3 align="center">Um desenvolvedor backend apaixonado do Brasil - PE </h3>
+<h3 align="center">Um desenvolvedor apaixonado pelo backend</h3>
 
 - 🔭 Atualmente trabalhando em: Um bot do discord (repositorio privado, depois deixo ele publico)
 
