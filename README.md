@@ -22,4 +22,4 @@
 
 <p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=krebinkkj&theme=midnight-purple&show_icons=true&locale=pt-br&layout=compact" alt="krebinkkj" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krebinkkj&label=Visitas&color=0e75b6&style=flat" alt="krebinkkj" /> </p>
+<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=krebinkkj&label=Visitas&color=0e75b6&style=flat" alt="krebinkkj" /> </p>
