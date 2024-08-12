@@ -24,4 +24,4 @@
 
 <p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
 
-<p><a href="https://discord.com/users/1041878326169587732"/></a><img align="bottom" src="https://lanyard.cnrad.dev/api/1041878326169587732?borderRadius=10px&idleMessage=Nenhuma%20atividade&hideBadge=false" alt="krebinkkj" /></p>
+<p><img align="bottom" src="https://lanyard.cnrad.dev/api/1041878326169587732?borderRadius=10px&idleMessage=Nenhuma%20atividade&hideBadge=false" alt="krebinkkj" /></p>
