@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krebinkkj&show_icons=true&locale=en&layout=compact" alt="krebinkkj" /></p>
 
-![Krebinkkj](https://github-readme-stats.vercel.app/api?username=krebinkkj&show_icons=true&theme=discord_old_blurple)
+[![krebinkkj](https://github-readme-stats.vercel.app/api/wakatime?username=krebinkkjtheme=discord_old_purple)
 
 [<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krebinkkj&" alt="krebinkkj" /></p>](https://github-readme-stats.vercel.app/api?username=krebinkkj)
 
