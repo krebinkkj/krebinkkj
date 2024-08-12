@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krebinkkj&theme=midnight-purple&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
 
 <p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1041878326169587732hideStatus=false)](https://discord.com/users/1041878326169587732)
