@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=krebinkkj&theme=midnight-purple&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
+<p><img align="right" src=https://discord-readme-badge.vercel.app/api?id=<your discord id" alt="krebinkkj" /></p>
 
