@@ -1,24 +1,63 @@
-<h1 align="center">Olá 👋, Eu sou Krebinkkj</h1>
-<h3 align="center">Um desenvolvedor apaixonado pelo backend</h3>
-
-- 🔭 Atualmente trabalhando em: Um bot do discord (repositorio privado, depois deixo ele publico)
-
-- 🌱 Atualmente estou aprendendo **nada**
-
-- 📫 Como me contatar: **Discord: krebinkkj2**
-
-- ⚡ Fato: **jogador de brawlhalla e minecraft**
 
 
-<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=krebinkkj&label=Visitas&color=0e75b6&style=flat" alt="krebinkkj" /> </p>
-<p align="left">
-</p>
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Krebinkkj Image" src="https://cdn.discordapp.com/avatars/1041878326169587732/6164fdb789c26ab806714f36bc92d778.png?size=4096">  
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="middle" > <img src="https://komarev.com/ghpvc/?username=krebinkkj&label=Profile%20views&color=5539cc&style=flat" alt="mid-rip" /> </div>
 
-<p><img align="left" src="https://lanyard.cnrad.dev/api/1041878326169587732?borderRadius=10px&idleMessage=Nenhuma%20atividade&hideBadge=false" alt="krebinkkj" /></p>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5539cc&width=450&height=70&lines=Hey!+I'm+Krebinkkj!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=krebinkkj&theme=midnight-purple&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&theme=midnight-purple&layout=compact&show_icons=true&locale=pt-br" alt="krebinkkj" /></p>
+<h3> 👨🏻‍💻 About Me: </h3>
+
+- 👨‍💻 &nbsp; I’m currently studying `Game development`
+- 💬 &nbsp; I Love dev `Discords  Bots` and `other things`.
+- 🌱 &nbsp; I’m currently learning `Ruby`.
+- 🎈 &nbsp; My own Discord Bot: [krebinbot](https://github.com/krebinkkj/krebinbot) (in development)
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<div align="top">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+</div>
+
+ <h1> 📊 My stats: </h1>
+
+<div align="middle">
+  <img src="https://github-readme-stats.vercel.app/api?username=krebinkkj&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=krebinkkj&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=451" alt="GitHub Streak" />
+  </a>
+  <br/>
+</div>
+
+<div align="middle">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krebinkkj&layout=donut&theme=tokyonight" alt="Top Languages" />
+  <img src="https://lanyard.cnrad.dev/api/1041878326169587732?borderRadius=10px&idleMessage=Nenhuma%20atividade&hideBadge=false" alt="krebinkkj"">
+  <br/>
+</div>
