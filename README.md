@@ -12,7 +12,7 @@
 - 👨‍💻 &nbsp; I’m currently studying `Game development`
 - 💬 &nbsp; I Love dev `Discords  Bots` and `other things`.
 - 🌱 &nbsp; I’m currently learning `Ruby`.
-- 🎈 &nbsp; My own Discord Bot: [krebinbot](https://github.com/krebinkkj/krebinbot) (in development)
+- 🎈 &nbsp; My own Discord Bot: [krebinbot](https://github.com/krebinkkj/discord-bot) (in development)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <div align="top">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
