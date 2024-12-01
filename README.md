@@ -1,6 +1,6 @@
 
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Krebinkkj Image" src="https://cdn.discordapp.com/avatars/1041878326169587732/6164fdb789c26ab806714f36bc92d778.png?size=4096">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Krebinkkj Image" src="https://cdn.discordapp.com/avatars/1041878326169587732/20c4a76ee288e6c831c7c195619a31fa.png?size=2048">  
 
 <div align="middle" > <img src="https://komarev.com/ghpvc/?username=krebinkkj&label=Profile%20views&color=5539cc&style=flat" alt="mid-rip" /> </div>
 
